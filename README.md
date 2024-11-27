@@ -11,6 +11,7 @@
 
 ### Meistgenutzte Sprachen
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christian-grund&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deinusername&layout=compact&langs_count=5&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
