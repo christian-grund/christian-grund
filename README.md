@@ -1,9 +1,9 @@
 <h1 align=center>Hi there 👋</h1>
-<h2 align=center>I'm Christian. A 34 year old full stack web developer from Germany</h2>
+<h2 align=center>I'm Christian. A 34 year old full stack web developer from Germany.</h2>
 
 ![Profil Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+profile)
 
-### About me
+### My skills:
 - **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
 - **Backend:** Python, Django
 - **UI:** Figma, Material Design, Bootstrap
@@ -11,10 +11,10 @@
 - **OS:** Linux, Terminal
 - **Databases:** PostgreSQL, SQLite, Redis
 - **Deployment:** Google Cloud, Docker, Heroku
-
-
+- 
 
 ✉️ You can contact me [here](mailto:mail@christian-grund.dev)
+
 
 # 👨‍💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
