@@ -4,15 +4,14 @@
 ![Profil Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+profile)
 
 ### About me
-**Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
-**Backend:** Python, Django
-**UI:** Figma, Material Design, Bootstrap
-**Agile software development:** Scrum, Git, Github
-**OS:** Linux, Terminal
-**Databases:** PostgreSQL, SQLite, Redis
-**Deployment:** Google Cloud, Docker, Heroku
+- **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
+- **Backend:** Python, Django
+- **UI:** Figma, Material Design, Bootstrap
+- **Agile software development:** Scrum, Git, Github
+- **OS:** Linux, Terminal
+- **Databases:** PostgreSQL, SQLite, Redis
+- **Deployment:** Google Cloud, Docker, Heroku
 
-**Test**
 
 
 - ✉️ [Contact me](mailto:mail@christian-grund.dev)
