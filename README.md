@@ -11,7 +11,7 @@
 - **OS:** Linux, Terminal
 - **Databases:** PostgreSQL, SQLite, Redis
 - **Deployment:** Google Cloud, Docker, Heroku
-- 
+  
 
 ✉️ You can contact me [here](mailto:mail@christian-grund.dev)
 
