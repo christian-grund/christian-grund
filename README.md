@@ -1,7 +1,7 @@
 <h1 align=center>Hi there 👋</h1>
 <h2 align=center>I'm Christian. A 34 year old full stack web developer from Germany.</h2>
 
-![snake animation](https://github.com/christian-grund/christian-grund/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/christian-grund/christian-grund/blob/output/github-contribution-grid-snake2.svg)
 
 ### My skills:
 - **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
