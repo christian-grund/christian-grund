@@ -3,6 +3,7 @@
 
 ![snake animation](https://github.com/christian-grund/christian-grund/blob/output/github-contribution-grid-snake2.svg)
 
+
 ### My skills:
 - **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
 - **Backend:** Python, Django
