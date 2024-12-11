@@ -10,7 +10,7 @@
 
 - ✉️ You can contact me [here](mailto:mail@christian-grund.dev)
 
-- ⚡ Fun fact **The first website:** The first website ever created was made by Tim Berners-Lee, the inventor of the World Wide Web. It was launched on August 6, 1991, and it’s still online today!
+- ⚡ **Fun fact:** The first website ever created was made by Tim Berners-Lee, the inventor of the World Wide Web. It was launched on August 6, 1991, and it’s still online today!
    <br> <br>
 
 ## 👨‍💻 My skills:
