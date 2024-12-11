@@ -53,7 +53,7 @@
 
 <div align="center">
   <br>
-  <h3>🐍 Watch the snake eating my Contributions 🐍</h3>
+  <h3>🐍 Watch the snake eating my contributions 🐍</h3>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
