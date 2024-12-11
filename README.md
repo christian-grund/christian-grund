@@ -15,7 +15,7 @@
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 - **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
-- **Backend:** Python, Django
+- **Backend:** Python, Django, Django Rest Framework
 - **UI:** Figma, Material Design, Bootstrap
 - **Agile software development:** Scrum, Git, Github
 - **OS:** Linux, Terminal
