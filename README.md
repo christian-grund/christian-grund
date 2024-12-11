@@ -12,6 +12,7 @@
 - ✉️ You can contact me [here](mailto:mail@christian-grund.dev)
 
 - ⚡ Fun fact **The first website:** The first website ever created was made by Tim Berners-Lee, the inventor of the World Wide Web. It was launched on August 6, 1991, and it’s still online today!
+   <br> <br>
 
 ### 👨‍💻 My skills:
 - **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
@@ -21,7 +22,7 @@
 - **OS:** Linux, Terminal
 - **Databases:** PostgreSQL, SQLite, Redis
 - **Deployment:** Google Cloud, Docker, Heroku
-
+ <br> <br>
 
 # ⚒️ Languages-Frameworks-Tools ⚒️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -60,6 +61,6 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-     <br> <br>
+    
 </div> 
 
