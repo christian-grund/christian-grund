@@ -2,7 +2,7 @@
 <h2 align=center>I'm Christian. A 34 year old full stack web developer from Germany.</h2>
 
 <div align="center">
-  <h2>🐍 Watch the snake eating my Contributions 🐍</h2>
+  <h3>🐍 Watch the snake eating my Contributions 🐍</h3>
   <br>
   <<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
