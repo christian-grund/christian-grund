@@ -1,9 +1,13 @@
 <h1 align=center>Hi there 👋</h1>
 <h2 align=center>I'm Christian. A 34 year old full stack web developer from Germany.</h2>
 
-<h3>Watch my JS snake eating github contributions</h3>
-
-![snake gif](https://github.com/christian-grund/christian-grund/blob/output/ocean.gif)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ### My skills:
 - **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
