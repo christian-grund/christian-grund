@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **The first website:** The first website ever created was made by Tim Berners-Lee, the inventor of the World Wide Web. It was launched on August 6, 1991, and it’s still online today!
 
-### My skills:
+### 👨‍💻 My skills:
 - **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
 - **Backend:** Python, Django
 - **UI:** Figma, Material Design, Bootstrap
@@ -23,7 +23,7 @@
 - **Deployment:** Google Cloud, Docker, Heroku
 
 
-# 👨‍💻 Tech Stack:
+# ⚒️ Languages-Frameworks-Tools ⚒️
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
