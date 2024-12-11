@@ -1,19 +1,19 @@
 <h1 align=center>Hi there 👋</h1>
 <h2 align=center>I'm Christian. A 34 year old full stack web developer from Germany.</h2>
 
-<!-- <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div align="center">
+  <h2>🐍 Watch the snake eating my Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div> -->
-
-<picture>
+  <<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+  
+  <br/><br/><br/>
+</div> 
+
+
 
 ### My skills:
 - **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
