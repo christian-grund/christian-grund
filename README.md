@@ -1,5 +1,5 @@
 <h1 align=center>Hi there 👋</h1>
-<h2 align=center>I'm Christian. A 34 year old full stack web developer from Germany.</h2>
+<h2 align=center>I'm Christian. A 34 year old full stack web developer from Oberkirch, Germany.</h2>
 
 <div align="center">
   <h3>🐍 Watch the snake eating my Contributions 🐍</h3>
@@ -10,7 +10,15 @@
 </picture>
 </div> 
 
+- 🔭 I’m currently working on [an association-management tool](https://github.com/halilbahar/association-management)
+  
+- 🌱 I’m currently learning **React, Vue.js**
 
+- 👨‍💻 Some of my projects are available at [https://christian-grund.dev/](https://christian-grund.dev/)
+
+- ✉️ You can contact me [here](mailto:mail@christian-grund.dev)
+
+- ⚡ Fun fact **The first website:** The first website ever created was made by Tim Berners-Lee, the inventor of the World Wide Web. It was launched on August 6, 1991, and it’s still online today!
 
 ### My skills:
 - **Frontend:** JavaScript, TypeScript, Angular, HTML, CSS, SCSS
@@ -20,9 +28,6 @@
 - **OS:** Linux, Terminal
 - **Databases:** PostgreSQL, SQLite, Redis
 - **Deployment:** Google Cloud, Docker, Heroku
-  
-
-✉️ You can contact me [here](mailto:mail@christian-grund.dev)
 
 
 # 👨‍💻 Tech Stack:
