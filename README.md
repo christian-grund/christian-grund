@@ -2,12 +2,14 @@
 <h2 align=center>I'm Christian. A 34 year old full stack web developer from Oberkirch, Germany.</h2>
 
 <div align="center">
+  <br>
   <h3>🐍 Watch the snake eating my Contributions 🐍</h3>
   <<picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+     <br> <br>
 </div> 
 
 - 🔭 I’m currently working on [an association-management tool](https://github.com/halilbahar/association-management)
