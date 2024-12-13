@@ -1,8 +1,6 @@
 <h1 align=center>Hi there 👋</h1>
 
 ## I'm Christian. A 34 year old full stack web developer from Oberkirch, Germany.
-
-- 🔭 I’m currently working on [an association-management tool](https://github.com/halilbahar/association-management)
   
 - 🌱 I’m currently learning **React, Vue.js**
 
